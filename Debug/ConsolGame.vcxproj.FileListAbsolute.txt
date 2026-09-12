@@ -1,0 +1,2 @@
+C:\Users\jinseo\Desktop\객체지향프로그래밍\ConsolGame\Debug\ConsolGame.exe
+C:\Users\jinseo\Desktop\archive\unity project\ConsolGame\Debug\ConsolGame.exe
